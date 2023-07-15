@@ -8,15 +8,15 @@
 
 **Laucher**
 
-![Launcher](Calculator/screenshots/Launcher.png)
+![Launcher](screenshots/Launcher.png)
 
 **Activity**
 
-![Activity Page](Calculator/screenshots/Activity_Page.png)
+![Activity Page](screenshots/Activity_Page.png)
 
 **Working**
 
-![Working](Calculator/screenshots/Working.png)
+![Working](screenshots/Working.png)
 ## Developed Using
 
 **IDE :** Android Studio

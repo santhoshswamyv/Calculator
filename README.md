@@ -8,15 +8,15 @@
 
 **Laucher**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Launcher](Calculator/screenshots/Launcher.png)
 
 **Activity**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Activity Page](Calculator/screenshots/Activity_Page.png)
 
 **Working**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Working](Calculator/screenshots/Working.png)
 ## Developed Using
 
 **IDE :** Android Studio

@@ -14,7 +14,7 @@
         android:text=""
         android:textAlignment="viewEnd"
         android:layout_marginEnd="12dp"
-        android:textSize="32dp"
+        android:textSize="32sp"
         android:textColor="#1B1212"
         app:layout_constraintBottom_toTopOf="@+id/result_tv"
         app:layout_constraintEnd_toEndOf="parent"
@@ -67,8 +67,8 @@
                 android:backgroundTint="#28282B"
                 android:textColor="@color/btnBackground2"
                 android:onClick="onClearClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="C"/>
 
             <com.google.android.material.button.MaterialButton
@@ -76,7 +76,7 @@
                 style="@style/Widget.MaterialComponents.ExtendedFloatingActionButton"
                 android:layout_width="72dp"
                 android:layout_height="72dp"
-                android:layout_margin="12dp"
+                android:layout_margin="15dp"
                 android:backgroundTint="#28282B"
                 android:onClick="onBackClick"
                 app:cornerRadius="26dp"
@@ -85,7 +85,7 @@
                 app:iconTint="@color/btnBackground2"
                 tools:ignore="SpeakableTextPresentCheck" />
             <com.google.android.material.button.MaterialButton
-                android:id="@+id/btn_modulo"
+                android:id="@+id/btn_dot"
                 android:layout_width="72dp"
                 android:layout_height="72dp"
                 app:cornerRadius="26dp"
@@ -93,9 +93,9 @@
                 android:backgroundTint="#28282B"
                 android:textColor="@color/btnBackground2"
                 android:onClick="onOperatorClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
-                android:text="%"/>
+                android:textSize="32sp"
+                android:layout_margin="15dp"
+                android:text="."/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_divide"
                 android:layout_width="72dp"
@@ -105,8 +105,8 @@
                 android:backgroundTint="#28282B"
                 android:textColor="@color/btnBackground2"
                 android:onClick="onOperatorClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="/"/>
 
 
@@ -128,8 +128,8 @@
                 android:backgroundTint="#B3B3B3"
                 android:textColor="#1B1212"
                 android:onClick="onDigitClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="7"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_8"
@@ -140,8 +140,8 @@
                 android:backgroundTint="#B3B3B3"
                 android:textColor="#1B1212"
                 android:onClick="onDigitClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="8"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_9"
@@ -152,8 +152,8 @@
                 android:backgroundTint="#B3B3B3"
                 android:textColor="#1B1212"
                 android:onClick="onDigitClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="9"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_multiply"
@@ -164,8 +164,8 @@
                 android:backgroundTint="#28282B"
                 android:textColor="@color/btnBackground2"
                 android:onClick="onOperatorClick"
-                android:textSize="40dp"
-                android:layout_margin="12dp"
+                android:textSize="40sp"
+                android:layout_margin="15dp"
                 android:text="*"/>
 
 
@@ -187,8 +187,8 @@
                 android:backgroundTint="#B3B3B3"
                 android:textColor="#1B1212"
                 android:onClick="onDigitClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="4"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_5"
@@ -199,8 +199,8 @@
                 android:backgroundTint="#B3B3B3"
                 android:textColor="#1B1212"
                 android:onClick="onDigitClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="5"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_6"
@@ -211,8 +211,8 @@
                 android:backgroundTint="#B3B3B3"
                 android:textColor="#1B1212"
                 android:onClick="onDigitClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="6"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_add"
@@ -223,8 +223,8 @@
                 android:backgroundTint="#28282B"
                 android:textColor="@color/btnBackground2"
                 android:onClick="onOperatorClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="+"/>
 
 
@@ -246,8 +246,8 @@
                 android:backgroundTint="#B3B3B3"
                 android:textColor="#1B1212"
                 android:onClick="onDigitClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="1"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_2"
@@ -258,8 +258,8 @@
                 android:backgroundTint="#B3B3B3"
                 android:textColor="#1B1212"
                 android:onClick="onDigitClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="2"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_3"
@@ -270,8 +270,8 @@
                 android:backgroundTint="#B3B3B3"
                 android:textColor="#1B1212"
                 android:onClick="onDigitClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="3"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_sub"
@@ -282,8 +282,8 @@
                 android:backgroundTint="#28282B"
                 android:textColor="@color/btnBackground2"
                 android:onClick="onOperatorClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="-"/>
 
 
@@ -305,8 +305,8 @@
                 android:backgroundTint="#28282B"
                 android:textColor="@color/btnBackground2"
                 android:onClick="onAllclearClick"
-                android:textSize="20dp"
-                android:layout_margin="12dp"
+                android:textSize="20sp"
+                android:layout_margin="15dp"
                 android:text="AC"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_0"
@@ -317,11 +317,11 @@
                 android:backgroundTint="#B3B3B3"
                 android:textColor="#1B1212"
                 android:onClick="onDigitClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="0"/>
             <com.google.android.material.button.MaterialButton
-                android:id="@+id/btn_dot"
+                android:id="@+id/btn_doublezero"
                 android:layout_width="72dp"
                 android:layout_height="72dp"
                 app:cornerRadius="26dp"
@@ -329,9 +329,9 @@
                 android:backgroundTint="#B3B3B3"
                 android:textColor="#1B1212"
                 android:onClick="onDigitClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
-                android:text="."/>
+                android:textSize="23sp"
+                android:layout_margin="15dp"
+                android:text="00"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_equals"
                 android:layout_width="72dp"
@@ -341,8 +341,8 @@
                 android:backgroundTint="@color/btnBackground2"
                 android:textColor="#28282B"
                 android:onClick="onEqualClick"
-                android:textSize="32dp"
-                android:layout_margin="12dp"
+                android:textSize="32sp"
+                android:layout_margin="15dp"
                 android:text="="/>
 
 

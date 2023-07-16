@@ -8,15 +8,15 @@
 
 **Laucher**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Launcher](screenshots/Launcher.png)
 
 **Activity**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Activity Page](screenshots/Activity_Page.png)
 
 **Working**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Working](screenshots/Working.png)
 ## Developed Using
 
 **IDE :** Android Studio
@@ -46,7 +46,6 @@
 
 
 ## 🔗 Links & Support
-[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](santhoshswamyv@gmail.com/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-swamy-v-22ab6b234)
 

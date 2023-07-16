@@ -12,7 +12,7 @@
 
 **Activity**
 
-![Activity Page](screenshots/Activity_Page.png)
+![Activity Page](screenshots/Activity.png)
 
 **Working**
 

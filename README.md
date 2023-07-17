@@ -36,7 +36,7 @@
 *Go to the project directory*
 
 ```bash
-  cd app\build\outputs\apk\debug
+  cd Application (Apk)
   install app-debug.apk
 ```
 

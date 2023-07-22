@@ -12,7 +12,7 @@
 
 **Activity**
 
-![Activity Page](screenshots/Activity_Page.png)
+![Activity Page](screenshots/Activity.png)
 
 **Working**
 
@@ -36,7 +36,7 @@
 *Go to the project directory*
 
 ```bash
-  cd app\build\outputs\apk\debug
+  cd Application-(Apk)
   install app-debug.apk
 ```
 
